@@ -50,10 +50,10 @@ Key interfaces include:
 ## 🖼️ Visuals
 
 ### 🔧 Schematic Overview  
-![Schematic](./images/schematic.png)
+![Schematic](schematic.png)
 
 ### 🧱 3D Board Render  
-![3D Render](./images/pcb_3d.png)
+![3D Render](3d.png)
 
 ---
 
