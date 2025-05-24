@@ -21,7 +21,7 @@ Key interfaces include:
 ## 📌 Key Features
 
 - **🧠 Microcontrollers**
-  - Two STM32 MCUs for distributed processing
+  - Two atmega32 MCUs for distributed processing
 
 - **🔌 Communication Interfaces**
   - USB-C to UART (via CH340) for PC connection and power
@@ -61,7 +61,7 @@ Key interfaces include:
 
 | Name         | Description                          | Designators         | Qty |
 |--------------|--------------------------------------|---------------------|-----|
-| STM32 MCU    | ARM Cortex-M STM32 Microcontrollers  | U1, U2              | 2   |
+| atmega32 MCU    | ARM Cortex-M STM32 Microcontrollers  | U1, U2              | 2   |
 | CH340        | USB to UART Bridge                   | U3                  | 1   |
 | USB-B Port   | Encoder input interface              | J1                  | 1   |
 | USB-C Port   | UART + power input                   | J2                  | 1   |
@@ -89,7 +89,7 @@ Key interfaces include:
    - Connect via USB-B port
 
 4. **Programming:**
-   - Use SWD or UART bootloader for both STM32 MCUs
+   - Use SWD or UART bootloader for both atmega2 MCUs
 
 ---
 
